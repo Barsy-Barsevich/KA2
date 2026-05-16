@@ -1,0 +1,170 @@
+Removed Pin From Net: NetName=NetC6_1 Pin=VD9-D
+Removed Pin From Net: NetName=NetC6_1 Pin=VD9-D
+Removed Pin From Net: NetName=NetC6_1 Pin=VD9-D
+Removed Pin From Net: NetName=NetC6_1 Pin=VD9-D
+Removed Pin From Net: NetName=ServoEFGH_EN Pin=VD9-G
+Removed Pin From Net: NetName=GND Pin=VD9-S
+Removed Pin From Net: NetName=GND Pin=VD9-S
+Removed Pin From Net: NetName=GND Pin=VD9-S
+Removed Pin From Net: NetName=NetC5_1 Pin=VD10-D
+Removed Pin From Net: NetName=NetC5_1 Pin=VD10-D
+Removed Pin From Net: NetName=NetC5_1 Pin=VD10-D
+Removed Pin From Net: NetName=NetC5_1 Pin=VD10-D
+Removed Pin From Net: NetName=ServoABCD_EN Pin=VD10-G
+Removed Pin From Net: NetName=GND Pin=VD10-S
+Removed Pin From Net: NetName=GND Pin=VD10-S
+Removed Pin From Net: NetName=GND Pin=VD10-S
+Removed Pin From Net: NetName=PyroEN Pin=VD11-G
+Removed Pin From Net: NetName=GND Pin=VD11-S
+Removed Pin From Net: NetName=GND Pin=VD11-S
+Removed Pin From Net: NetName=GND Pin=VD11-S
+Removed Pin From Net: NetName=NetD8_3 Pin=VD14-G
+Removed Pin From Net: NetName=GND Pin=VD14-S
+Removed Pin From Net: NetName=GND Pin=VD14-S
+Removed Pin From Net: NetName=GND Pin=VD14-S
+Removed Pin From Net: NetName=NetD8_1 Pin=VD15-G
+Removed Pin From Net: NetName=NetC69_1 Pin=VD15-S
+Removed Pin From Net: NetName=NetC69_1 Pin=VD15-S
+Removed Pin From Net: NetName=NetC69_1 Pin=VD15-S
+Removed Member From Class: ClassName=KA2_4 Member=C82
+Removed Member From Class: ClassName=KA2_4 Member=C83
+Removed Member From Class: ClassName=KA2_2 Member=VD9
+Removed Member From Class: ClassName=KA2_2 Member=VD10
+Removed Member From Class: ClassName=KA2_2 Member=VD11
+Removed Member From Class: ClassName=KA2_3 Member=VD14
+Removed Member From Class: ClassName=KA2_3 Member=VD15
+Change Component Designator: OldDesignator=VD12 NewDesignator=VD9
+Change Component Designator: OldDesignator=VD13 NewDesignator=VD10
+Change Component Designator: OldDesignator=VD16 NewDesignator=VD11
+Change Component Designator: OldDesignator=VD17 NewDesignator=VD12
+Change Component Designator: OldDesignator=VD18 NewDesignator=VD13
+Change Component Designator: OldDesignator=VD19 NewDesignator=VD14
+Change Component Designator: OldDesignator=VD20 NewDesignator=VD15
+Change Component Designator: OldDesignator=VD21 NewDesignator=VD16
+Change Component Designator: OldDesignator=VD22 NewDesignator=VD17
+Change Component Designator: OldDesignator=VD23 NewDesignator=VD18
+Change Component Designator: OldDesignator=VD24 NewDesignator=VD19
+Change Component Designator: OldDesignator=VD25 NewDesignator=VD20
+Change Component Designator: OldDesignator=VD27 NewDesignator=VD21
+Change Component Designator: OldDesignator=VD29 NewDesignator=VD22
+Change Component Designator: OldDesignator=VD30 NewDesignator=VD23
+Add component: Footprint Not Found QFN16_4x4mm
+Add component: Footprint Not Found SOT-23
+Added Component: Designator=VT1(TM30N03ADF)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Tritech-MOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr.Part"; Value = "TM30N03ADF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TM30N03ADF"; VariantName = "[No Variations]"
+Added Component: Designator=VT2(TM30N03ADF)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Tritech-MOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr.Part"; Value = "TM30N03ADF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TM30N03ADF"; VariantName = "[No Variations]"
+Added Component: Designator=VT3(TM30N03ADF)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Tritech-MOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr.Part"; Value = "TM30N03ADF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TM30N03ADF"; VariantName = "[No Variations]"
+Added Component: Designator=VT4(TM30N03ADF)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Tritech-MOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr.Part"; Value = "TM30N03ADF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TM30N03ADF"; VariantName = "[No Variations]"
+Added Component: Designator=VT5(TM30N03ADF)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Tritech-MOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr.Part"; Value = "TM30N03ADF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TM30N03ADF"; VariantName = "[No Variations]"
+Add component: Footprint Not Found SOT-23
+Add component: Footprint Not Found SOT-23
+Add component: Footprint Not Found SOT-23
+Add Pin To Net: Unknown Pin: Pin D1-21
+Add Pin To Net: Unknown Pin: Pin D4-0
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin D4-3
+Add Pin To Net: Unknown Pin: Pin D4-4
+Add Pin To Net: Unknown Pin: Pin D4-5
+Add Pin To Net: Unknown Pin: Pin D4-6
+Add Pin To Net: Unknown Pin: Pin D4-7
+Add Pin To Net: Unknown Pin: Pin D4-8
+Add Pin To Net: Unknown Pin: Pin D4-9
+Add Pin To Net: Unknown Pin: Pin D4-10
+Add Pin To Net: Unknown Pin: Pin D4-11
+Add Pin To Net: Unknown Pin: Pin D4-12
+Add Pin To Net: Unknown Pin: Pin D4-13
+Add Pin To Net: Unknown Pin: Pin D4-14
+Add Pin To Net: Unknown Pin: Pin D4-15
+Add Pin To Net: Unknown Pin: Pin D4-16
+Add Pin To Net: Unknown Pin: Pin VD24-1
+Add Pin To Net: Unknown Pin: Pin VD24-2
+Add Pin To Net: Unknown Pin: Pin VD24-3
+Added Pin To Net: NetName=NetC6_1 Pin=VT1-D
+Added Pin To Net: NetName=NetC6_1 Pin=VT1-D
+Added Pin To Net: NetName=NetC6_1 Pin=VT1-D
+Added Pin To Net: NetName=NetC6_1 Pin=VT1-D
+Added Pin To Net: NetName=ServoEFGH_EN Pin=VT1-G
+Added Pin To Net: NetName=GND Pin=VT1-S
+Added Pin To Net: NetName=GND Pin=VT1-S
+Added Pin To Net: NetName=GND Pin=VT1-S
+Added Pin To Net: NetName=NetC5_1 Pin=VT2-D
+Added Pin To Net: NetName=NetC5_1 Pin=VT2-D
+Added Pin To Net: NetName=NetC5_1 Pin=VT2-D
+Added Pin To Net: NetName=NetC5_1 Pin=VT2-D
+Added Pin To Net: NetName=ServoABCD_EN Pin=VT2-G
+Added Pin To Net: NetName=GND Pin=VT2-S
+Added Pin To Net: NetName=GND Pin=VT2-S
+Added Pin To Net: NetName=GND Pin=VT2-S
+Added Pin To Net: NetName=PyroEN Pin=VT3-G
+Added Pin To Net: NetName=GND Pin=VT3-S
+Added Pin To Net: NetName=GND Pin=VT3-S
+Added Pin To Net: NetName=GND Pin=VT3-S
+Added Pin To Net: NetName=NetD8_3 Pin=VT4-G
+Added Pin To Net: NetName=GND Pin=VT4-S
+Added Pin To Net: NetName=GND Pin=VT4-S
+Added Pin To Net: NetName=GND Pin=VT4-S
+Added Pin To Net: NetName=NetD8_1 Pin=VT5-G
+Added Pin To Net: NetName=NetC69_1 Pin=VT5-S
+Added Pin To Net: NetName=NetC69_1 Pin=VT5-S
+Added Pin To Net: NetName=NetC69_1 Pin=VT5-S
+Add Pin To Net: Unknown Pin: Pin VT6-1
+Add Pin To Net: Unknown Pin: Pin VT6-2
+Add Pin To Net: Unknown Pin: Pin VT6-3
+Add Pin To Net: Unknown Pin: Pin VT8-1
+Add Pin To Net: Unknown Pin: Pin VT8-2
+Add Pin To Net: Unknown Pin: Pin VT8-3
+Added Pin To Net: NetName=NetVT3_D Pin=VT3-D
+Added Pin To Net: NetName=NetVT3_D Pin=VT3-D
+Added Pin To Net: NetName=NetVT3_D Pin=VT3-D
+Added Pin To Net: NetName=NetVT3_D Pin=VT3-D
+Added Pin To Net: NetName=NetVT3_D Pin=X9-2
+Added Net: Name=NetVT3_D
+Added Pin To Net: NetName=NetVT4_D Pin=VT4-D
+Added Pin To Net: NetName=NetVT4_D Pin=VT4-D
+Added Pin To Net: NetName=NetVT4_D Pin=VT4-D
+Added Pin To Net: NetName=NetVT4_D Pin=VT4-D
+Added Pin To Net: NetName=NetVT4_D Pin=VT5-D
+Added Pin To Net: NetName=NetVT4_D Pin=VT5-D
+Added Pin To Net: NetName=NetVT4_D Pin=VT5-D
+Added Pin To Net: NetName=NetVT4_D Pin=VT5-D
+Added Net: Name=NetVT4_D
+Added Member To Class: ClassName=KA2_2 Member=Component C27 Ceramic capacitor, 10?, X7R, ±10%, 16V, 0402, -55...+125°C
+Added Member To Class: ClassName=KA2_2 Member=Component C28 Ceramic capacitor, 10?, X7R, ±10%, 16V, 0402, -55...+125°C
+Added Member To Class: ClassName=KA2_2 Member=Component C29 Ceramic capacitor, 10?, X7R, ±10%, 16V, 0402, -55...+125°C
+Added Member To Class: ClassName=KA2_2 Member=Component C30 Ceramic capacitor, 0.1?, X7R, ±10%, 16V, 0402, -55...+125°C
+Added Member To Class: ClassName=KA2_2 Member=Component C31 Ceramic capacitor, 4.7?, X7R, ±10%, 16V, 0402, -55...+125°C
+Added Member To Class: ClassName=KA2_2 Member=Component C32 Ceramic capacitor, 0.1?, X7R, ±10%, 16V, 0402, -55...+125°C
+Added Member To Class: ClassName=KA2_4 Member=Component C84 Ceramic capacitor, 0.1?F, X7R, ±10%, 16V, 0402, -55...+125°C
+Added Member To Class: ClassName=KA2_4 Member=Component C85 Ceramic capacitor, 18, X7R, ±10%, 16V, 0402, -55...+125°C
+Added Member To Class: ClassName=KA2_2 Member=Component D3 TPS63001
+Add Class Member: Failed to add class member : Component D4 INA3221
+Added Member To Class: ClassName=KA2_4 Member=Component D5 HPM6754IVM2
+Added Member To Class: ClassName=KA2_2 Member=Component R15 Resistor film, 0.016, , 1206, 1W, -55...+125°C
+Added Member To Class: ClassName=KA2_2 Member=Component R16 Resistor film, 0.016, , 1206, 1W, -55...+125°C
+Added Member To Class: ClassName=KA2_2 Member=Component R17 Resistor film, 100, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=KA2_2 Member=Component R18
+Added Member To Class: ClassName=KA2_2 Member=Component R19 Resistor film, 0.016, , 1206, 1W, -55...+125°C
+Add Class Member: Failed to add class member : Component VD24 TM30N03ADF
+Added Member To Class: ClassName=KA2_2 Member=Component VT1 TM30N03ADF
+Added Member To Class: ClassName=KA2_2 Member=Component VT2 TM30N03ADF
+Added Member To Class: ClassName=KA2_2 Member=Component VT3 TM30N03ADF
+Added Member To Class: ClassName=KA2_3 Member=Component VT4 TM30N03ADF
+Added Member To Class: ClassName=KA2_3 Member=Component VT5 TM30N03ADF
+Add Class Member: Failed to add class member : Component VT6 TM30N03ADF
+Add Class Member: Failed to add class member : Component VT7 TM30N03ADF
+Add Class Member: Failed to add class member : Component VT8 TM30N03ADF

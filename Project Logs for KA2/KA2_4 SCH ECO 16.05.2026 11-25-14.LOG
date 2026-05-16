@@ -1,0 +1,20 @@
+Change Value of Parameter ValueManufacturerPartNumber in Part R34 Old=Resistor, 10k, ±1%, 0402 New==TypeResistor+', '+Value+', '+Tolerance+', '+Package
+Change Value of Parameter ValueManufacturerPartNumber in Part R35 Old=Resistor, 10k, ±1%, 0402 New==TypeResistor+', '+Value+', '+Tolerance+', '+Package
+Change Value of Parameter ValueManufacturerPartNumber in Part R36 Old=Resistor, 10k, ±1%, 0402 New==TypeResistor+', '+Value+', '+Tolerance+', '+Package
+Change Value of Parameter ValueManufacturerPartNumber in Part R37 Old=Resistor, 2M, ±1%, 0402 New==TypeResistor+', '+Value+', '+Tolerance+', '+Package
+Change Value of Parameter ValueManufacturerPartNumber in Part R38 Old=Resistor, 5,1k, ±1%, 0402 New==TypeResistor+', '+Value+', '+Tolerance+', '+Package
+Change Value of Parameter ValueManufacturerPartNumber in Part R39 Old=Resistor, 5,1k, ±1%, 0402 New==TypeResistor+', '+Value+', '+Tolerance+', '+Package
+Change Value of Parameter ValueManufacturerPartNumber in Part R40 Old=Resistor, 1k, ±1%, 0402 New==TypeResistor+', '+Value+', '+Tolerance+', '+Package
+Change Value of Parameter ValueManufacturerPartNumber in Part R41 Old=Resistor, 10k, ±1%, 0402 New==TypeResistor+', '+Value+', '+Tolerance+', '+Package
+Change Value of Parameter ValueManufacturerPartNumber in Part R42 Old=Resistor, 1k, ±1%, 0402 New==TypeResistor+', '+Value+', '+Tolerance+', '+Package
+Change Value of Parameter ValueManufacturerPartNumber in Part R43 Old=Resistor, 1k, ±1%, 0402 New==TypeResistor+', '+Value+', '+Tolerance+', '+Package
+Replace Symbol from R34 Resistor_0402 in C:\Users\Виктор\Documents\KA2\KA2_4.SchDoc with Resistor_0402 from Barsotion.IntLib
+Replace Symbol from R35 Resistor_0402 in C:\Users\Виктор\Documents\KA2\KA2_4.SchDoc with Resistor_0402 from Barsotion.IntLib
+Replace Symbol from R36 Resistor_0402 in C:\Users\Виктор\Documents\KA2\KA2_4.SchDoc with Resistor_0402 from Barsotion.IntLib
+Replace Symbol from R37 Resistor_0402 in C:\Users\Виктор\Documents\KA2\KA2_4.SchDoc with Resistor_0402 from Barsotion.IntLib
+Replace Symbol from R38 Resistor_0402 in C:\Users\Виктор\Documents\KA2\KA2_4.SchDoc with Resistor_0402 from Barsotion.IntLib
+Replace Symbol from R39 Resistor_0402 in C:\Users\Виктор\Documents\KA2\KA2_4.SchDoc with Resistor_0402 from Barsotion.IntLib
+Replace Symbol from R40 Resistor_0402 in C:\Users\Виктор\Documents\KA2\KA2_4.SchDoc with Resistor_0402 from Barsotion.IntLib
+Replace Symbol from R41 Resistor_0402 in C:\Users\Виктор\Documents\KA2\KA2_4.SchDoc with Resistor_0402 from Barsotion.IntLib
+Replace Symbol from R42 Resistor_0402 in C:\Users\Виктор\Documents\KA2\KA2_4.SchDoc with Resistor_0402 from Barsotion.IntLib
+Replace Symbol from R43 Resistor_0402 in C:\Users\Виктор\Documents\KA2\KA2_4.SchDoc with Resistor_0402 from Barsotion.IntLib

@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=KA2_6 Member=VD13
+Add Pin To Net: Unknown Pin: Pin D1-21
+Added Member To Class: ClassName=KA2_3 Member=Component VD9 LED_0603_Y
+Added Member To Class: ClassName=KA2_3 Member=Component VD10 LED_0603_Y
+Added Member To Class: ClassName=KA2_4 Member=Component VD11 LED_0603_Y
+Added Member To Class: ClassName=KA2_4 Member=Component VD12 LED_0603_Y
+Added Member To Class: ClassName=KA2_4 Member=Component VD13 LED_0603_Y
+Added Member To Class: ClassName=KA2_6 Member=Component VD14 D1213A-01T
+Added Member To Class: ClassName=KA2_6 Member=Component VD15 D1213A-01T
+Added Member To Class: ClassName=KA2_6 Member=Component VD16 D1213A-01T
+Added Member To Class: ClassName=KA2_6 Member=Component VD18 D1213A-01T
+Added Member To Class: ClassName=KA2_6 Member=Component VD20 D1213A-01T
+Added Member To Class: ClassName=KA2_6 Member=Component VD21 D1213A-01T
+Added Member To Class: ClassName=KA2_6 Member=Component VD22 D1213A-01T
+Added Member To Class: ClassName=KA2_6 Member=Component VD23 1N4148
+Added Member To Class: ClassName=KA2_6 Member=Component VD24 TM30N03ADF

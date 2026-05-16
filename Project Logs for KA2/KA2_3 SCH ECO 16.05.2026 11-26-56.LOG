@@ -1,0 +1,8 @@
+Change Value of Parameter ValueManufacturerPartNumber in Part R19 Old=Resistor, 0, ±1%, 0805 New==TypeResistor+', '+Value+', '+Tolerance+', '+Package
+Change Value of Parameter ValueManufacturerPartNumber in Part R20 Old=Resistor, 0, ±1%, 0805 New==TypeResistor+', '+Value+', '+Tolerance+', '+Package
+Change Value of Parameter ValueManufacturerPartNumber in Part R21 Old=Resistor, 0, ±1%, 0805 New==TypeResistor+', '+Value+', '+Tolerance+', '+Package
+Change Value of Parameter ValueManufacturerPartNumber in Part R22 Old=Resistor, 0, ±1%, 0805 New==TypeResistor+', '+Value+', '+Tolerance+', '+Package
+Replace Symbol from R19 Resistor_0805 in C:\Users\Виктор\Documents\KA2\KA2_3.SchDoc with Resistor_0805 from Barsotion.IntLib
+Replace Symbol from R20 Resistor_0805 in C:\Users\Виктор\Documents\KA2\KA2_3.SchDoc with Resistor_0805 from Barsotion.IntLib
+Replace Symbol from R21 Resistor_0805 in C:\Users\Виктор\Documents\KA2\KA2_3.SchDoc with Resistor_0805 from Barsotion.IntLib
+Replace Symbol from R22 Resistor_0805 in C:\Users\Виктор\Documents\KA2\KA2_3.SchDoc with Resistor_0805 from Barsotion.IntLib

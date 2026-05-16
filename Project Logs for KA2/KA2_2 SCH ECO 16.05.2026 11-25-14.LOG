@@ -1,0 +1,2 @@
+Change Value of Parameter ValueManufacturerPartNumber in Part R6 Old=Resistor, 10k, ±1%, 0402 New==TypeResistor+', '+Value+', '+Tolerance+', '+Package
+Replace Symbol from R6 Resistor_0402 in C:\Users\Виктор\Documents\KA2\KA2_2.SchDoc with Resistor_0402 from Barsotion.IntLib
