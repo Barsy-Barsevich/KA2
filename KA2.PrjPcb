@@ -185,6 +185,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SRFQBHTJ
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for KA2\Design Rule Check - KA2.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1194,10 +1198,16 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=Barsotion.IntLib
-ComponentDesignItemID0=Resistor_0805
-ComponentSymbolReference0=Resistor_0805
+ComponentDesignItemID0=Resistor_0402
+ComponentSymbolReference0=Resistor_0402
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=Barsotion.IntLib
+ComponentDesignItemID1=Resistor_0805
+ComponentSymbolReference1=Resistor_0805
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
 FullReplace=0
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1226,7 +1236,7 @@ ParameterUpdate5=0
 ParameterName6=Mfr.Part
 ParameterUpdate6=1
 ParameterName7=Package
-ParameterUpdate7=0
+ParameterUpdate7=1
 ParameterName8=Tolerance
 ParameterUpdate8=1
 ParameterName9=TypeResistor
@@ -1238,7 +1248,7 @@ ParameterUpdate11=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=Capacitor_0805
+ModelName0=RES: 0402
 ModelUpdate0=1
 ModelType1=PCBLIB
 ModelName1=RES: 0805

@@ -1,0 +1,24 @@
+Added Component: Designator=R27(RES: 0402)
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr.Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor, 1k, ±1%, 0402"; VariantName = "[No Variations]"
+Added Component: Designator=R30(RES: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr.Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor, 100, ±1%, 0805"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R27-1
+Added Pin To Net: NetName=NetD6_6 Pin=R27-2
+Added Pin To Net: NetName=3V7_for_logic Pin=R30-1
+Added Pin To Net: NetName=NetC82_2 Pin=R30-2
+Added Member To Class: ClassName=KA2_3 Member=Component R27 Resistor, 1k, ±1%, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component R30 Resistor, 100, ±1%, 0805

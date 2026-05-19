@@ -1,0 +1,121 @@
+Removed Member From Class: ClassName=KA2_3 Member=C19
+Removed Member From Class: ClassName=KA2_5 Member=C73
+Removed Member From Class: ClassName=KA2_5 Member=C75
+Removed Member From Class: ClassName=KA2_5 Member=C77
+Removed Member From Class: ClassName=KA2_6 Member=C97
+Removed Member From Class: ClassName=KA2_6 Member=C99
+Removed Member From Class: ClassName=KA2_6 Member=C101
+Removed Member From Class: ClassName=KA2_6 Member=C103
+Removed Member From Class: ClassName=KA2_6 Member=C105
+Removed Member From Class: ClassName=KA2_5 Member=D8
+Removed Member From Class: ClassName=KA2_6 Member=L7
+Removed Member From Class: ClassName=KA2_4 Member=R19
+Removed Member From Class: ClassName=KA2_4 Member=R20
+Removed Member From Class: ClassName=KA2_4 Member=R22
+Removed Member From Class: ClassName=KA2_6 Member=R39
+Removed Member From Class: ClassName=KA2_6 Member=R42
+Change Net Name : Old Net Name=NetC1_1 New Net Name=ServoABCD_GND
+Change Net Name : Old Net Name=NetC2_1 New Net Name=ServoEFGH_GND
+Added Member To Class: ClassName=KA2_2 Member=Component C1 Ceramic capacitor, 100?, X7R, ±10%, 50V, 1206
+Added Member To Class: ClassName=KA2_2 Member=Component C2 Ceramic capacitor, 100?, X7R, ±10%, 50V, 1206
+Added Member To Class: ClassName=KA2_2 Member=Component C5 Ceramic capacitor, 100?, X7R, ±10%, 50V, 1206
+Added Member To Class: ClassName=KA2_2 Member=Component C6 Ceramic capacitor, 100?, X7R, ±10%, 50V, 1206
+Added Member To Class: ClassName=KA2_2 Member=Component C8 Ceramic capacitor, 100?, X7R, ±10%, 50V, 1206
+Added Member To Class: ClassName=KA2_2 Member=Component C9 Ceramic capacitor, 100?, X7R, ±10%, 50V, 1206
+Added Member To Class: ClassName=KA2_2 Member=Component C12 Ceramic capacitor, 82, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_2 Member=Component C13 Ceramic capacitor, 0,039?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_2 Member=Component C14 Ceramic capacitor, 100?, X7R, ±10%, 50V, 1206
+Added Member To Class: ClassName=KA2_2 Member=Component C15 Ceramic capacitor, 100?, X7R, ±10%, 50V, 1206
+Added Member To Class: ClassName=KA2_2 Member=Component C16 Ceramic capacitor, 100?, X7R, ±10%, 50V, 1206
+Added Member To Class: ClassName=KA2_2 Member=Component C17 Ceramic capacitor, 100?, X7R, ±10%, 50V, 1206
+Added Member To Class: ClassName=KA2_2 Member=Component C18 Ceramic capacitor, 4,7?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_2 Member=Component C19 Ceramic capacitor, 0,1?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C20 Ceramic capacitor, 10?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C21 Ceramic capacitor, 0,1?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C22 Ceramic capacitor, 0,1?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C23 Ceramic capacitor, 22?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C24 Ceramic capacitor, 0,1?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C26 Ceramic capacitor, 22?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C28 Ceramic capacitor, 0,1?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C29 Ceramic capacitor, 0,1?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C30 Ceramic capacitor, 0,1?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C31 Ceramic capacitor, 0,1?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C32 Ceramic capacitor, 0,1?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C33 Ceramic capacitor, 0,1?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C34 Ceramic capacitor, 0,1?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C35 Ceramic capacitor, 4,7?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C36 Ceramic capacitor, 4,7?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C37 Ceramic capacitor, 0,1?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C39 Ceramic capacitor, 1?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C41 Ceramic capacitor, 0,1?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C43 Ceramic capacitor, 0,1?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C45 Ceramic capacitor, 4,7?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C47 Ceramic capacitor, 4,7?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C49 Ceramic capacitor, 0,1?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C51 Ceramic capacitor, 10?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C53 Ceramic capacitor, 0,1?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C55 Ceramic capacitor, 0,1?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C57 Ceramic capacitor, 4,7?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C59 Ceramic capacitor, 4,7?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C61 Ceramic capacitor, 4,7?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C63 Ceramic capacitor, 4,7?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C65 Ceramic capacitor, 4,7?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C67 Ceramic capacitor, 10?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C69 Ceramic capacitor, 10?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component C71 Ceramic capacitor, 0,1?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_5 Member=Component C82 Ceramic capacitor, 0,01?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_5 Member=Component C84 Ceramic capacitor, 1?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_5 Member=Component C86 Ceramic capacitor, 1?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_5 Member=Component C88 Ceramic capacitor, 10?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_5 Member=Component C90 Ceramic capacitor, 0,01?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_5 Member=Component C92 Ceramic capacitor, 1, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_5 Member=Component C94 Ceramic capacitor, 1000, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_5 Member=Component C96 Ceramic capacitor, 0,01?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_5 Member=Component C98 Ceramic capacitor, 2200, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_5 Member=Component C100 Ceramic capacitor, 0,033?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_5 Member=Component C102 Ceramic capacitor, 22, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_5 Member=Component C104 Ceramic capacitor, 0,1?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_6 Member=Component C106 Ceramic capacitor, 4,7?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_6 Member=Component C108 Ceramic capacitor, 4,7?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_6 Member=Component C110 Ceramic capacitor, 0,1?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_6 Member=Component C112 Ceramic capacitor, 0,1?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_6 Member=Component C114 Ceramic capacitor, 1?, X7R, ±10%, 16V, 0402
+Added Member To Class: ClassName=KA2_2 Member=Component D2 INA3221
+Added Member To Class: ClassName=KA2_3 Member=Component D5 TP4057
+Added Member To Class: ClassName=KA2_3 Member=Component D7 TPS63001
+Added Member To Class: ClassName=KA2_5 Member=Component D9 ICM-45686
+Added Member To Class: ClassName=KA2_5 Member=Component D11 ICM-45686
+Added Member To Class: ClassName=KA2_5 Member=Component D13 OK7EL89CJI-111YLC-32.768K
+Added Member To Class: ClassName=KA2_5 Member=Component D15 SN74HC595PWR
+Added Member To Class: ClassName=KA2_6 Member=Component D17 TPL730ADJ-5TL
+Added Member To Class: ClassName=KA2_3 Member=Component L2 1.55A 4.7uH ±20% 1.9A 196m? Magnetic Shielded Inductor 1008 Fixed Inductors RoHS
+Added Member To Class: ClassName=KA2_3 Member=Component L4 3A 2.2uH ±20% 55m? 3.8A 1008 Fixed Inductors RoHS
+Added Member To Class: ClassName=KA2_5 Member=Component L6 Inductor, 8200, ±10%, 0402
+Added Member To Class: ClassName=KA2_6 Member=Component L8 Inductor, 600?@100MHz, ±10%, 0603
+Added Member To Class: ClassName=KA2_2 Member=Component R4 Resistor, 10k, ±1%, 0402
+Added Member To Class: ClassName=KA2_2 Member=Component R5 Resistor, 10k, ±1%, 0402
+Added Member To Class: ClassName=KA2_2 Member=Component R6 Resistor, 10k, ±1%, 0402
+Added Member To Class: ClassName=KA2_2 Member=Component R7 Resistor, 0.016, ±1%, 1206
+Added Member To Class: ClassName=KA2_2 Member=Component R8 Resistor, 0.016, ±1%, 1206
+Added Member To Class: ClassName=KA2_2 Member=Component R9 Resistor, 10k, ±1%, 0402
+Added Member To Class: ClassName=KA2_2 Member=Component R10 Resistor, 0.016, ±1%, 1206
+Added Member To Class: ClassName=KA2_3 Member=Component R11 Resistor, 0, ±1%, 0805
+Added Member To Class: ClassName=KA2_3 Member=Component R12 Resistor, 0, ±1%, 0805
+Added Member To Class: ClassName=KA2_3 Member=Component R15 Resistor, 0, ±1%, 0805
+Added Member To Class: ClassName=KA2_3 Member=Component R17 Resistor, 1k, ±1%, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component R18 Resistor, 5,1k, ±1%, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component R21 Resistor, 1k, ±1%, 0402
+Added Member To Class: ClassName=KA2_3 Member=Component R24 Resistor, 30,9k, ±1%, 0402
+Added Member To Class: ClassName=KA2_4 Member=Component R26 Resistor, 10k, ±1%, 0402
+Added Member To Class: ClassName=KA2_4 Member=Component R27 Resistor, 10k, ±1%, 0402
+Added Member To Class: ClassName=KA2_4 Member=Component R28 Resistor, 10k, ±1%, 0402
+Added Member To Class: ClassName=KA2_4 Member=Component R30 Resistor, 5,1k, ±1%, 0402
+Added Member To Class: ClassName=KA2_5 Member=Component R46 Resistor, 1k, ±1%, 0402
+Added Member To Class: ClassName=KA2_6 Member=Component R49 Resistor, 130, ±1%, 0402
+Added Member To Class: ClassName=KA2_6 Member=Component R52 Resistor array (4), 33, ±1%, 0402
+Added Member To Class: ClassName=KA2_6 Member=Component R60 Resistor, 5,1k, ±1%, 0402
+Added Member To Class: ClassName=KA2_6 Member=Component R61 Resistor, 1k, ±1%, 0402
+Added Member To Class: ClassName=KA2_6 Member=Component R62 Resistor, 10k, ±1%, 0402
+Added Member To Class: ClassName=KA2_6 Member=Component R64 Resistor, 24,9k, ±1%, 0402
+Added Member To Class: ClassName=KA2_6 Member=Component R66 Resistor, 5,1k, ±1%, 0402
+Added Member To Class: ClassName=KA2_6 Member=Component R67 Resistor, 5,1k, ±1%, 0402
